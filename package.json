@@ -1,0 +1,12 @@
+{
+  "name": "knitting-pattern-generator",
+  "version": "1.0.0",
+  "description": "A knitting pattern generator based on your mood and favorite TV program.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
